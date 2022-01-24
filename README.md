@@ -14,3 +14,4 @@ You can find and download the dataset from here
 🞄Generate new artworks.
 
 🞄Predict the artwork belongs to which artist.
+
