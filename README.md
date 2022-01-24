@@ -8,9 +8,9 @@ The dataset is called Best Artworks of All Time, and contains a collection of pa
 
 You can find and download the dataset from here
 
-Note: This dataset is more complex than the number datasets (like MNIST or SVHN) that we usually work with, and so, it needs deeper networks and training them for a longer time to get good results.
+#Note: This dataset is more complex than the number datasets (like MNIST or SVHN) that we usually work with, and so, it needs deeper networks and training them for a longer time to get good results.
 
 # Inspiration
-Generate new artworks.
+🞄Generate new artworks.
 
-Predict the artwork belongs to which artist.
+🞄Predict the artwork belongs to which artist.
