@@ -6,7 +6,7 @@ We divided the project into two sections, Artworks Generation and Artworks Predi
 
 The dataset is called Best Artworks of All Time, and contains a collection of paintings of the 50 most influential artists of all time.
 
-You can find and download the dataset from link https://www.kaggle.com/ikarus777/best-artworks-of-all-time
+You can find and download the dataset from link [https://www.kaggle.com/ikarus777/best-artworks-of-all-time]
 
 Note: This dataset is more complex than the number datasets (like MNIST or SVHN) that we usually work with, and so, it needs deeper networks and training them for a longer time to get good results.
 
