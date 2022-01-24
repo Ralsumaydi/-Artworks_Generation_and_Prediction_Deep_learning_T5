@@ -10,6 +10,7 @@ You can find and download the dataset from link https://www.kaggle.com/ikarus777
 
 Note: This dataset is more complex than the number datasets (like MNIST or SVHN) that we usually work with, and so, it needs deeper networks and training them for a longer time to get good results.
 
-#Inspiration
+# Inspiration
 🞄Generate new artworks.
+
 🞄Predict the artwork belongs to which artist.
